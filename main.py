@@ -47,4 +47,5 @@ def place_pizza_order():
 
 
 # Call the function to place a pizza order
-place_pizza_order()
+if __name__ == "__main__":
+    place_pizza_order()
